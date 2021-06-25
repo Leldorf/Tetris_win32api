@@ -1,0 +1,16 @@
+﻿  DrawEngine.cpp
+  Game.cpp
+  Level.cpp
+E:\Programs\C\tetris-win32-master\src\Level.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+E:\Programs\C\tetris-win32-master\src\Level.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Programs\C\tetris-win32-master\src\Level.cpp(160,9): warning C4101: 'apt': unreferenced local variable
+E:\Programs\C\tetris-win32-master\src\Level.cpp(194,8): warning C4101: 'apt': unreferenced local variable
+  main.cpp
+  Piece.cpp
+  PieceSet.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+E:\Programs\C\tetris-win32-master\src\Level.cpp(187): warning C4715: 'Level::move': not all control paths return a value
+  All 68 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  tetris-win32.vcxproj -> E:\Programs\C\tetris-win32-master\Release\tetris-win32.exe
