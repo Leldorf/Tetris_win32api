@@ -1,4 +1,4 @@
-# Tetris2
+# Tetris_win32api
 
 Tetris with win32 API
 
